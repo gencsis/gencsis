@@ -15,16 +15,21 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# Hi, I'm Genesis 👋
 
-### CS @ LSU | Electrical Engineering Minor | Class of 2027
+<div align="center">
+
+<h1>Hi, I'm Genesis 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Computer+Science+%40+LSU;C%2FC%2B%2B+%26+Embedded+Systems;Software+Engineering;Building+things+that+matter" alt="Typing SVG" />
+
+</div>
 
 Interested in embedded systems, software engineering,
 and building things that connect software with the real world.
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](genesis-escobar.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genesis-escobar-18b728254/)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:genesisesc26@gmail.com)
-
 </div>
 
 ---
